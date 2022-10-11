@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e269bf19.css",
-    "main.js": "/static/js/main.4293aee6.js",
-    "static/js/787.653b97cb.chunk.js": "/static/js/787.653b97cb.chunk.js",
-    "static/media/tree2.jpeg": "/static/media/tree2.4ba2a21e4341d1cfe5dc.jpeg",
-    "index.html": "/index.html",
-    "main.e269bf19.css.map": "/static/css/main.e269bf19.css.map",
-    "main.4293aee6.js.map": "/static/js/main.4293aee6.js.map",
-    "787.653b97cb.chunk.js.map": "/static/js/787.653b97cb.chunk.js.map"
+    "main.css": "/react-ex-1/static/css/main.e269bf19.css",
+    "main.js": "/react-ex-1/static/js/main.928223c1.js",
+    "static/js/787.653b97cb.chunk.js": "/react-ex-1/static/js/787.653b97cb.chunk.js",
+    "static/media/tree2.jpeg": "/react-ex-1/static/media/tree2.4ba2a21e4341d1cfe5dc.jpeg",
+    "index.html": "/react-ex-1/index.html",
+    "main.e269bf19.css.map": "/react-ex-1/static/css/main.e269bf19.css.map",
+    "main.928223c1.js.map": "/react-ex-1/static/js/main.928223c1.js.map",
+    "787.653b97cb.chunk.js.map": "/react-ex-1/static/js/787.653b97cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e269bf19.css",
-    "static/js/main.4293aee6.js"
+    "static/js/main.928223c1.js"
   ]
 }
